@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class GetPrimeNumbers {
     public static boolean isPrime(int number) {
-        int remeidCount = 1;
+        int remindCount = 1;
         if (number <= 1) {
             return false;
         } else {
